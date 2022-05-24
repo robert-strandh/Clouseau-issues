@@ -1,0 +1,7 @@
+This repository exists solely in order to create issues related to
+Clouseau, the CLIM-based Common Lisp inspector.
+
+Currently, Clouseau is distributed with McCLIM, the free
+implementation of the CLIM II specification, and it is not practical
+to create Clouseau-related issues in the McCLIM repository, because
+they represent too much noise in the big picture of McCLIM.
